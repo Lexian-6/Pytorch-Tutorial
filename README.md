@@ -1,2 +1,2 @@
 # Pytorch-Tutorial
-A Pytorch Tutorial with contents similar to pytorch course from freecodecamp
+A Pytorch Tutorial with contents from freecodecamp
